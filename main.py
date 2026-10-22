@@ -1,6 +1,8 @@
 import all
+import yeja
 import otromas
 
 print("Hola")
-print("Adios")
+print("Que pasa")
 print("Hoer")
+print("UI")
